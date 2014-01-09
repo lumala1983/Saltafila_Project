@@ -1,0 +1,8 @@
+************************** Saltafila project 2DO *******************************
+
+- Un primo mock della UI e' stato preparato, e sara' incluso a breve nel repository
+
+- Vanno definiti degli UseCase
+
+- Vanno definite delle milestone, o storie, o comunque dei commit
+
